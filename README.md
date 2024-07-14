@@ -11,3 +11,7 @@ A program that creates an object of an arbitrary class and lists all the methods
 ```
 A programs that creates an object of an arbitrary class and lists all the private fields of that class and displays their values. Then changes the value of a field dynamically and display the new value. Also, the application dynamically detects the type of the field and applies the changes with the type.
 ```
+## <span style="color: #6D2DBF"> Fourth Program </span>
+```
+Write a program that implements an interface using Reflection and dynamically returns its methods with default values. Also, it should simulate the default methods when called so that they can return arbitrary values.
+```
