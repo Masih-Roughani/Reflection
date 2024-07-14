@@ -7,3 +7,7 @@ A program that takes the name of a class and the type of its constructor paramet
 ```
 A program that creates an object of an arbitrary class and lists all the methods of that class along with their input parameters and return type. Then calling one of the methods dynamically and displaying the result.
 ```
+## <span style="color: #6D2DBF"> Third Program </span>
+```
+A programs that creates an object of an arbitrary class and lists all the private fields of that class and displays their values. Then changes the value of a field dynamically and display the new value. Also, the application dynamically detects the type of the field and applies the changes with the type.
+```
